@@ -6,7 +6,8 @@
 </head> 
 <body>
 <h3><h1 style="color:DodgerBlue;">MI PRESENTACION</h1><h3>
- <table>
+ 
+  <table>
   <tr>
     <th>NOMBRE COMPLETO</th>
     <td> <a href ="https://www.instagram.com/paulo.g.silva_/?hl=es-la">Paulo Gonzales Silva</a>
