@@ -7,7 +7,6 @@
 <body>
 
 <h3><h1 style="color:DodgerBlue;">MI PRESENTACION</h1><h3>
-
 <table>
   <tr>
     <th>NOMBRE COMPLETO</th>
