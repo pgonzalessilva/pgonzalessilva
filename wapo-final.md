@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <meta name="google-site-verification" content="Mc3ppErdZKkqshQxXWTyfKovFz8lE4n-qpGi7Ba5Smo" />
-     <meta charset="UTF-8"
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      
      Hola, te invito a conocer un poco más sobre mí, mis gustos y afinidades y lo que estoy estudiando
-
-
 </head> 
 <body>
 
