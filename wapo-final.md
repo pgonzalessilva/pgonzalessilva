@@ -5,8 +5,7 @@
      Hola, te invito a conocer un poco más sobre mí, mis gustos y afinidades y lo que estoy estudiando
 </head> 
 <body>
-<h3><h1 style="color:DodgerBlue;">MI PRESENTACION</h1><h3>
-<table>
+<h3><h1 style="color:DodgerBlue;">MI PRESENTACION</h1><h3><table>
   <tr>
     <th>NOMBRE COMPLETO</th>
     <td> <a href ="https://www.instagram.com/paulo.g.silva_/?hl=es-la">Paulo Gonzales Silva</a>
